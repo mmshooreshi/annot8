@@ -16,12 +16,12 @@
     "@iconify/json": "^2.2.208",
     "@nuxt/devtools": "latest",
     "@pinia/nuxt": "^0.4.11",
-    "@unocss/nuxt": "^0.55.7",
-    "@unocss/reset": "^0.55.7",
+    "@unocss/nuxt": "latest",
+    "@unocss/reset": "latest",
     "@vueuse/nuxt": "^10.9.0",
-    "nuxt": "^3.11.2",
-    "unplugin-icons": "^0.17.4",
-    "unplugin-vue-components": "^0.25.2"
+    "nuxt": "latest",
+    "unplugin-icons": "latest",
+    "unplugin-vue-components": "latest"
   },
   "dependencies": {
     "pinia": "^2.1.7",
